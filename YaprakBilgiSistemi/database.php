@@ -131,7 +131,7 @@ class Database
       if($check == true && $analyze == true && $repair == true && $optimize == true){
         echo $items[0].' adlı Tablonuzun bakımı yapıldı<br>';
       }else{
-        echo 'Bir hata oluştu';
+        echo 'Bir hata oluştuu';
       }
     }
   }
